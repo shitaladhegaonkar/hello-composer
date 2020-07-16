@@ -1,0 +1,14 @@
+{
+    "name": "sadhegaonkar/hello-composer",
+    "description": "Sample package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sadhegaonkar",
+            "email": "shital14.adh@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
